@@ -94,7 +94,7 @@ Then I see the "cannot divide number by zero" as the result
   And I type in "fraction number"
   Then I see "Left to right division" as result
 
-### Scenario: Division of multiple numbers (eg: 4/5/6/7)
+### Scenario: Division of multiple numbers (example: 4/5/6/7)
 
   Given The calculator is ON able to enter number
   When I type in "number"
