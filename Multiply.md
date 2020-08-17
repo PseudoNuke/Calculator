@@ -45,7 +45,7 @@
   And I press "Multiply"
   And I type in "decimal number"
   And I press "equals"
-  Then I see the "Multiplicated number at most 10 decimal place" as the result
+  Then I see the "Multiplied number at most 10 decimal place" as the result
 
 ### Scenario: Irrational value multiplication
   
@@ -54,7 +54,7 @@
   And I press "plus"
   And I type in "Irrational number"
   And I press "equals"
-  Then I see the "Multiplicated number till 10 decimal precision" as the result
+  Then I see the "Multiplied number till 10 decimal precision" as the result
 
 ### Scenario: Rational multiplication
 
