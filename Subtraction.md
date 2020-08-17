@@ -101,7 +101,7 @@ Then I see the "subtracted number" as the result
 ### Scenario: Converse operation
 
   Given: the calculator is ON
-  And I type in "operand two" 
+  And I type in "operand two"
   And I press "minus"
   And I type in "operand one"
   Then I see the "subtracted number" as the result
