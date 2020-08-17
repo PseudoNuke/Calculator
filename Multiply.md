@@ -45,7 +45,7 @@
   And I press "Multiply"
   And I type in "decimal number"
   And I press "equals"
-  Then I see the "Multiplcated number at most 10 decimal place" as the result
+  Then I see the "Multiplicated number at most 10 decimal place" as the result
 
 ### Scenario: Irrational value multiplication
   
@@ -54,7 +54,7 @@
   And I press "plus"
   And I type in "Irrational number"
   And I press "equals"
-  Then I see the "Multiplcated number till 10 decimal precision" as the result
+  Then I see the "Multiplicated number till 10 decimal precision" as the result
 
 ### Scenario: Rational multiplication
 
@@ -63,7 +63,7 @@
   And I press "multiply"
   And I type in "Rational number"
   And I press "equals"
-  Then I see the "Mutilplied number" as the result
+  Then I see the "Multiplied number" as the result
 
 ### Scenario: Decimal & integer multiplication
 
@@ -91,7 +91,7 @@
   And I type in "number"
   And I press "multiply"
   And I type in "number"
-  Then I see the "left to right multipled number" as result
+  Then I see the "left to right multiplied number" as result
 
 ### Scenario: Range of operand exceeds allowed limit
 
