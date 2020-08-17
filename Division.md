@@ -104,4 +104,3 @@ Then I see the "cannot divide number by zero" as the result
   And I type in "number"
   And I press "equals"
   Then I see the "left to right division" as the result
-  
